@@ -1,0 +1,1 @@
+Git er versjonskontrollsystemet over alle versjonskontrollsystemer, og gir deg som utvikler (eller oppgaveskriver) en fantastisk trygghet når det gjelder endringer. Men hvilke kommandoer finnes, ut over pull, push, add, commit og status? Fredrik gir en liten smakebit på hvilke muligheter man har tilgjengelig, og hvordan git gir deg kontroll og historikk over enhver kodebase.
